@@ -1,1 +1,1 @@
-# remax-store-pro
+# remax-store
